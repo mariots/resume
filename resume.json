@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "Mario Jimenez",
+    "label": "Programmer",
+    "picture": "https://s.gravatar.com/avatar/62a6b8935065a9f65adae0e1f384dee3?s=80",
+    "email": "mariotjimenez@gmail.com",
+    "phone": "(806) 789-5172",
+    "website": "http://mariotj.com",
+    "summary": "TODO: Write summary",
+    "location": {
+      "address": "",
+      "postalCode": "79424",
+      "city": "Lubbock",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "mariots",
+        "url": "https://github.com/mariots"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "College of Media and Communication",
+      "position": "Full Stack Web Developer",
+      "website": "https://depts.ttu.edu/comc/",
+      "startDate": "2015-08-01",
+      "endDate": "2016-07-01",
+      "summary": "TODO",
+      "highlights": [
+        "TODO",
+        "TODO",
+        "TODO"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "TODO",
+      "position": "TODO",
+      "website": "TODO.com",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "TODO",
+      "highlights": [
+        "TODO"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Texas Tech University",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2014-01-01",
+      "endDate": "2017-12-15",
+      "gpa": "2.9"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Texas Tech University Appathon",
+      "date": "2017-02-18",
+      "awarder": "Texas Tech University",
+      "summary": "TODO"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "TODO",
+      "level": "TODO",
+      "keywords": [
+        "TODO"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "TODO",
+      "keywords": [
+        "TODO",
+        "TODO"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "TODO",
+      "reference": "TODO"
+    }
+  ]
+}
