@@ -6,7 +6,7 @@
     "email": "mariotjimenez@gmail.com",
     "phone": "(806) 789-5172",
     "website": "http://mariotj.com",
-    "summary": "TODO: Write summary",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "79424",
@@ -62,7 +62,7 @@
       "title": "Texas Tech University Appathon",
       "date": "2017-02-18",
       "awarder": "Texas Tech University",
-      "summary": "Over 24 horus, worked on a team to build a time sorted event map for Universities."
+      "summary": "Over 24 hours, worked on a team to build a time sorted event map for universities."
     },
     {
       "title": "Eagle Scout",
