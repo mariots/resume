@@ -24,29 +24,26 @@
   },
   "work": [
     {
+      "company": "Hone Inc",
+      "position": "Founder, Lead Developer",
+      "website": "https://wearehone.com",
+      "startDate": "2016-07-01",
+      "endDate": "Present",
+      "highlights": [
+        "Developed 3 mobile iOS applications in Swift",
+        "Designed 3 custom PHP applications",
+        "Built 10+ websites for various clients"
+      ]
+    },
+    {
       "company": "College of Media and Communication",
       "position": "Full Stack Web Developer",
       "website": "https://depts.ttu.edu/comc/",
       "startDate": "2015-08-01",
       "endDate": "2016-07-01",
-      "summary": "TODO",
       "highlights": [
-        "TODO",
-        "TODO",
-        "TODO"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "TODO",
-      "position": "TODO",
-      "website": "TODO.com",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "TODO",
-      "highlights": [
-        "TODO"
+        "Maintained 50+ web pages",
+        "Developed custom PHP web apps and tools"
       ]
     }
   ],
@@ -65,7 +62,12 @@
       "title": "Texas Tech University Appathon",
       "date": "2017-02-18",
       "awarder": "Texas Tech University",
-      "summary": "TODO"
+      "summary": "Over 24 horus, worked on a team to build a time sorted event map for Universities."
+    },
+    {
+      "title": "Eagle Scout",
+      "date": "2010-01-16",
+      "awarder": "Troop 157, Boy Scouts of America"
     }
   ],
   "skills": [
@@ -75,14 +77,17 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "SASS",
+        "Javascript",
+        "JQuery"
       ]
     },
     {
-      "name": "TODO",
-      "level": "TODO",
+      "name": "iOS Development",
+      "level": "Proficient",
       "keywords": [
-        "TODO"
+        "Swift",
+        "Objective-C"
       ]
     }
   ],
@@ -90,21 +95,10 @@
     {
       "language": "English",
       "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
+    },
     {
-      "name": "TODO",
-      "keywords": [
-        "TODO",
-        "TODO"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "TODO",
-      "reference": "TODO"
+      "language": "Italian",
+      "fluency": "Novice speaker"
     }
   ]
 }
