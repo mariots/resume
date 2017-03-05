@@ -73,7 +73,7 @@
   "skills": [
     {
       "name": "Web Development",
-      "level": "Master",
+      "level": "master",
       "keywords": [
         "HTML",
         "CSS",
@@ -84,7 +84,7 @@
     },
     {
       "name": "iOS Development",
-      "level": "Proficient",
+      "level": "intermediate",
       "keywords": [
         "Swift",
         "Objective-C"
