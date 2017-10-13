@@ -24,6 +24,17 @@
   },
   "work": [
     {
+      "company": "USAA",
+      "position": "Software Developer and Integrator Intern",
+      "website": "https://usaa.com",
+      "startDate": "2017-05-28",
+      "endDate": "2017-08-05",
+      "highlights": [
+        "Developed front-end web application using JavaScript",
+        "Designed with Google Maps API and Dropbox API"
+      ]
+    },
+    {
       "company": "Hone Inc",
       "position": "Founder, Lead Developer",
       "website": "https://wearehone.com",
@@ -53,8 +64,7 @@
       "area": "Computer Science",
       "studyType": "Bachelor of Science",
       "startDate": "2014-01-01",
-      "endDate": "2017-12-15",
-      "gpa": "2.9"
+      "endDate": "2017-12-15"
     }
   ],
   "awards": [
