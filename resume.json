@@ -64,7 +64,8 @@
       "area": "Computer Science",
       "studyType": "Bachelor of Science",
       "startDate": "2014-01-01",
-      "endDate": "2017-12-15"
+      "endDate": "2017-12-15",
+      "gpa": "3.0"
     }
   ],
   "awards": [
@@ -85,10 +86,10 @@
       "name": "Web Development",
       "level": "master",
       "keywords": [
+        "JavaScript",
         "HTML",
         "CSS",
         "SASS",
-        "Javascript",
         "JQuery"
       ]
     },
@@ -105,10 +106,6 @@
     {
       "language": "English",
       "fluency": "Native speaker"
-    },
-    {
-      "language": "Italian",
-      "fluency": "Novice speaker"
     }
   ]
 }
